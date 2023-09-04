@@ -17,6 +17,16 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "src/custom-elements.d.ts",
+    "src/Layouts/RootLayout.js",
+    "src/Layouts/RootLayout.js",
+    "src/Layouts/RootLayout.js",
+    "src/shared/navbar.jsx",
+    "src/shared/navbar.jsx"
+  ],
   "exclude": ["node_modules"]
 }
