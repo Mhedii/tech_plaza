@@ -5,7 +5,8 @@ const RootLayout = ({ children }: any) => {
   return (
     <div>
       <Navbar />
-      <div className="h-screen">{children}</div>
+
+      <div>{children}</div>
 
       <Footer />
     </div>

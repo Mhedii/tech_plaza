@@ -1,0 +1,125 @@
+{
+    "pc":[
+        {
+            "id": "1",
+            "image_url": "/assets/ram.jpg",
+            "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
+            "category": "RAM",
+            "price": 2200,
+            "status": "In Stock",
+            "rating": 4.5
+            
+    },
+        {
+            "id": "2",
+            "image_url": "/assets/ram.jpg",
+            "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
+            "category": "RAM",
+            "price": 2200,
+            "status": "In Stock",
+            "rating": 4.5
+            
+    },
+        {
+            "id": "3",
+            "image_url": "/assets/ram.jpg",
+            "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
+            "category": "RAM",
+            "price": 2200,
+            "status": "In Stock",
+            "rating": 4.5
+            
+    },
+        {
+            "id": "4",
+            "image_url": "/assets/ram.jpg",
+            "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
+            "category": "RAM",
+            "price": 2200,
+            "status": "In Stock",
+            "rating": 4.5
+            
+    },
+        {
+            "id": "5",
+            "image_url": "/assets/ram.jpg",
+            "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
+            "category": "RAM",
+            "price": 2200,
+            "status": "In Stock",
+            "rating": 4.5
+            
+    },
+        {
+            "id": "6",
+            "image_url": "/assets/ram.jpg",
+            "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
+            "category": "RAM",
+            "price": 2200,
+            "status": "In Stock",
+            "rating": 4.5
+            
+    },
+        {
+            "id": "7",
+            "image_url": "/assets/mouse.jpg",
+            "name": "Razer Viper Ultimate RGB Gaming Mouse with Charging Dock",
+            "category": "Mouse",
+            "price": 14800,
+            "status": "In Stock",
+            "rating": 5
+            
+    },
+        {
+            "id": "8",
+            "image_url": "/assets/mouse.jpg",
+            "name": "Razer Viper Ultimate RGB Gaming Mouse with Charging Dock",
+            "category": "Mouse",
+            "price": 14800,
+            "status": "In Stock",
+            "rating": 5
+            
+    },
+        {
+            "id": "9",
+            "image_url": "/assets/mouse.jpg",
+            "name": "Razer Viper Ultimate RGB Gaming Mouse with Charging Dock",
+            "category": "Mouse",
+            "price": 14800,
+            "status": "In Stock",
+            "rating": 5
+            
+    },
+        {
+            "id": "10",
+            "image_url": "/assets/mouse.jpg",
+            "name": "Razer Viper Ultimate RGB Gaming Mouse with Charging Dock",
+            "category": "Mouse",
+            "price": 14800,
+            "status": "In Stock",
+            "rating": 5
+            
+    },
+        {
+            "id": "11",
+            "image_url": "/assets/mouse.jpg",
+            "name": "Razer Viper Ultimate RGB Gaming Mouse with Charging Dock",
+            "category": "Mouse",
+            "price": 14800,
+            "status": "In Stock",
+            "rating": 5
+            
+    },
+        {
+            "id": "12",
+            "image_url": "/assets/mouse.jpg",
+            "name": "Razer Viper Ultimate RGB Gaming Mouse with Charging Dock",
+            "category": "Mouse",
+            "price": 14800,
+            "status": "In Stock",
+            "rating": 5
+            
+    }
+
+]
+}
