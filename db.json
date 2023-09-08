@@ -4,60 +4,105 @@
             "id": "1",
             "image_url": "/assets/ram.jpg",
             "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
-            "category": "RAM",
+            "category": "Ram",
             "price": 2200,
             "status": "In Stock",
-            "rating": 4.5
+            "rating": 4.5,
+            "features":{
+"mpn":"TED48G3200C22-S01",
+"productCode":13216,
+"model": "Team Elite 8G",
+"brand":"Team",
+"volt": "1.2V",
+"description":"The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard.The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard. With only 1.2V of working voltage, it can save electricity use by 20% compared to its last generation. Therefore, the heat generated from the product itself can also be reduced and maintain the surrounding temperature of the system. It is 100% compatible with INTEL's latest X99 & Skylake chipset. With the selected high-quality IC chips and strict testing standard, it is the perfect choice for laptop users, who seek for excellent quality, optimal performance, stability and compatibility.This TEAM ELITE 8GB RAM has lifetime warranty."
+
+            }
+            
             
     },
         {
             "id": "2",
             "image_url": "/assets/ram.jpg",
             "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
-            "category": "RAM",
+            "category": "Ram",
             "price": 2200,
             "status": "In Stock",
-            "rating": 4.5
+            "rating": 4.5,
+            "features":{
+                "mpn":"TED48G3200C22-S01",
+                "productCode":13216,
+                "model": "Team Elite 8G",
+                "brand":"Team",
+                "volt": "1.2V",
+                "description":"The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard.The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard. With only 1.2V of working voltage, it can save electricity use by 20% compared to its last generation. Therefore, the heat generated from the product itself can also be reduced and maintain the surrounding temperature of the system. It is 100% compatible with INTEL's latest X99 & Skylake chipset. With the selected high-quality IC chips and strict testing standard, it is the perfect choice for laptop users, who seek for excellent quality, optimal performance, stability and compatibility.This TEAM ELITE 8GB RAM has lifetime warranty."}
             
     },
         {
             "id": "3",
             "image_url": "/assets/ram.jpg",
             "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
-            "category": "RAM",
+            "category": "Ram",
             "price": 2200,
             "status": "In Stock",
-            "rating": 4.5
+            "rating": 4.5,
+            "features":{
+                "mpn":"TED48G3200C22-S01",
+                "productCode":13216,
+                "model": "Team Elite 8G",
+                "brand":"Team",
+                "volt": "1.2V",
+                "description":"The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard.The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard. With only 1.2V of working voltage, it can save electricity use by 20% compared to its last generation. Therefore, the heat generated from the product itself can also be reduced and maintain the surrounding temperature of the system. It is 100% compatible with INTEL's latest X99 & Skylake chipset. With the selected high-quality IC chips and strict testing standard, it is the perfect choice for laptop users, who seek for excellent quality, optimal performance, stability and compatibility.This TEAM ELITE 8GB RAM has lifetime warranty."}
             
     },
         {
             "id": "4",
             "image_url": "/assets/ram.jpg",
             "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
-            "category": "RAM",
+            "category": "Ram",
             "price": 2200,
             "status": "In Stock",
-            "rating": 4.5
+            "rating": 4.5,
+            "features":{
+                "mpn":"TED48G3200C22-S01",
+                "productCode":13216,
+                "model": "Team Elite 8G",
+                "brand":"Team",
+                "volt": "1.2V",
+                "description":"The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard.The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard. With only 1.2V of working voltage, it can save electricity use by 20% compared to its last generation. Therefore, the heat generated from the product itself can also be reduced and maintain the surrounding temperature of the system. It is 100% compatible with INTEL's latest X99 & Skylake chipset. With the selected high-quality IC chips and strict testing standard, it is the perfect choice for laptop users, who seek for excellent quality, optimal performance, stability and compatibility.This TEAM ELITE 8GB RAM has lifetime warranty."}
             
     },
         {
             "id": "5",
             "image_url": "/assets/ram.jpg",
             "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
-            "category": "RAM",
+            "category": "Ram",
             "price": 2200,
             "status": "In Stock",
-            "rating": 4.5
+            "rating": 4.5,
+            "features":{
+                "mpn":"TED48G3200C22-S01",
+                "productCode":13216,
+                "model": "Team Elite 8G",
+                "brand":"Team",
+                "volt": "1.2V",
+                "description":"The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard.The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard. With only 1.2V of working voltage, it can save electricity use by 20% compared to its last generation. Therefore, the heat generated from the product itself can also be reduced and maintain the surrounding temperature of the system. It is 100% compatible with INTEL's latest X99 & Skylake chipset. With the selected high-quality IC chips and strict testing standard, it is the perfect choice for laptop users, who seek for excellent quality, optimal performance, stability and compatibility.This TEAM ELITE 8GB RAM has lifetime warranty."}
             
     },
         {
             "id": "6",
             "image_url": "/assets/ram.jpg",
             "name": "TEAM ELITE 8GB 3200MHz Laptop RAM",
-            "category": "RAM",
+            "category": "Ram",
             "price": 2200,
             "status": "In Stock",
-            "rating": 4.5
+            "rating": 4.5,
+            "features":{
+                "mpn":"TED48G3200C22-S01",
+                "productCode":13216,
+                "model": "Team Elite 8G",
+                "brand":"Team",
+                "volt": "1.2V",
+                "description":"The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard.The TEAM ELITE series has released an all-new DDR4 SO-DIMM product which is compliant with JEDEC international standard. With only 1.2V of working voltage, it can save electricity use by 20% compared to its last generation. Therefore, the heat generated from the product itself can also be reduced and maintain the surrounding temperature of the system. It is 100% compatible with INTEL's latest X99 & Skylake chipset. With the selected high-quality IC chips and strict testing standard, it is the perfect choice for laptop users, who seek for excellent quality, optimal performance, stability and compatibility.This TEAM ELITE 8GB RAM has lifetime warranty."}
             
     },
         {
@@ -67,7 +112,14 @@
             "category": "Mouse",
             "price": 14800,
             "status": "In Stock",
-            "rating": 5
+            "rating": 5,
+            "features":{
+                "mpn":"RZ01-03050100-R3A1",
+                "productCode":15432,
+                "model": "Razer Viper Ultimate",
+                "brand":"RAZER",
+                "weight": "74g",
+                "description":"Forget about average and claim the unfair advantage with the Razer Viper Ultimateâ€”a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology and is ready to sink its fangs into the competition. 25% faster than any other wireless technology available, you wonâ€™t even realize that youâ€™re gaming with a wireless mouse due to its high-speed transmission, lowest click latency, and seamless frequency switching in the noisiest, data-saturated environments. Our new, improved sensor has an industry-leading 20,000 DPI with 99.6% resolution accuracy, ensuring that even the finest movement from this wireless mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Utilizing an infrared light beam to register every click, the switches in this wireless mouse actuate with an industry-leading response time of 0.2 milliseconds. Because it no longer requires traditional physical contact, this form of actuation removes the need for debounce delay and never triggers unintended clicks, giving you closer control and flawless execution. Enjoy faster and smoother control with the lightest wireless gaming mouse in the market. Weighing just 74g, it achieves its weight without compromising on the build strength of its ambidextrous form factor. it has 01 Year Warranty (Need to submit product box for warranty claim)."}
             
     },
         {
@@ -77,7 +129,14 @@
             "category": "Mouse",
             "price": 14800,
             "status": "In Stock",
-            "rating": 5
+            "rating": 5,
+            "features":{
+                "mpn":"RZ01-03050100-R3A1",
+                "productCode":15432,
+                "model": "Razer Viper Ultimate",
+                "brand":"RAZER",
+                "weight": "74g",
+                "description":"Forget about average and claim the unfair advantage with the Razer Viper Ultimateâ€”a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology and is ready to sink its fangs into the competition. 25% faster than any other wireless technology available, you wonâ€™t even realize that youâ€™re gaming with a wireless mouse due to its high-speed transmission, lowest click latency, and seamless frequency switching in the noisiest, data-saturated environments. Our new, improved sensor has an industry-leading 20,000 DPI with 99.6% resolution accuracy, ensuring that even the finest movement from this wireless mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Utilizing an infrared light beam to register every click, the switches in this wireless mouse actuate with an industry-leading response time of 0.2 milliseconds. Because it no longer requires traditional physical contact, this form of actuation removes the need for debounce delay and never triggers unintended clicks, giving you closer control and flawless execution. Enjoy faster and smoother control with the lightest wireless gaming mouse in the market. Weighing just 74g, it achieves its weight without compromising on the build strength of its ambidextrous form factor. it has 01 Year Warranty (Need to submit product box for warranty claim)."}
             
     },
         {
@@ -87,7 +146,14 @@
             "category": "Mouse",
             "price": 14800,
             "status": "In Stock",
-            "rating": 5
+            "rating": 5,
+            "features":{
+                "mpn":"RZ01-03050100-R3A1",
+                "productCode":15432,
+                "model": "Razer Viper Ultimate",
+                "brand":"RAZER",
+                "weight": "74g",
+                "description":"Forget about average and claim the unfair advantage with the Razer Viper Ultimateâ€”a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology and is ready to sink its fangs into the competition. 25% faster than any other wireless technology available, you wonâ€™t even realize that youâ€™re gaming with a wireless mouse due to its high-speed transmission, lowest click latency, and seamless frequency switching in the noisiest, data-saturated environments. Our new, improved sensor has an industry-leading 20,000 DPI with 99.6% resolution accuracy, ensuring that even the finest movement from this wireless mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Utilizing an infrared light beam to register every click, the switches in this wireless mouse actuate with an industry-leading response time of 0.2 milliseconds. Because it no longer requires traditional physical contact, this form of actuation removes the need for debounce delay and never triggers unintended clicks, giving you closer control and flawless execution. Enjoy faster and smoother control with the lightest wireless gaming mouse in the market. Weighing just 74g, it achieves its weight without compromising on the build strength of its ambidextrous form factor. it has 01 Year Warranty (Need to submit product box for warranty claim)."}
             
     },
         {
@@ -97,7 +163,14 @@
             "category": "Mouse",
             "price": 14800,
             "status": "In Stock",
-            "rating": 5
+            "rating": 5,
+            "features":{
+                "mpn":"RZ01-03050100-R3A1",
+                "productCode":15432,
+                "model": "Razer Viper Ultimate",
+                "brand":"RAZER",
+                "weight": "74g",
+                "description":"Forget about average and claim the unfair advantage with the Razer Viper Ultimateâ€”a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology and is ready to sink its fangs into the competition. 25% faster than any other wireless technology available, you wonâ€™t even realize that youâ€™re gaming with a wireless mouse due to its high-speed transmission, lowest click latency, and seamless frequency switching in the noisiest, data-saturated environments. Our new, improved sensor has an industry-leading 20,000 DPI with 99.6% resolution accuracy, ensuring that even the finest movement from this wireless mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Utilizing an infrared light beam to register every click, the switches in this wireless mouse actuate with an industry-leading response time of 0.2 milliseconds. Because it no longer requires traditional physical contact, this form of actuation removes the need for debounce delay and never triggers unintended clicks, giving you closer control and flawless execution. Enjoy faster and smoother control with the lightest wireless gaming mouse in the market. Weighing just 74g, it achieves its weight without compromising on the build strength of its ambidextrous form factor. it has 01 Year Warranty (Need to submit product box for warranty claim)."}
             
     },
         {
@@ -107,7 +180,14 @@
             "category": "Mouse",
             "price": 14800,
             "status": "In Stock",
-            "rating": 5
+            "rating": 5,
+            "features":{
+                "mpn":"RZ01-03050100-R3A1",
+                "productCode":15432,
+                "model": "Razer Viper Ultimate",
+                "brand":"RAZER",
+                "weight": "74g",
+                "description":"Forget about average and claim the unfair advantage with the Razer Viper Ultimateâ€”a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology and is ready to sink its fangs into the competition. 25% faster than any other wireless technology available, you wonâ€™t even realize that youâ€™re gaming with a wireless mouse due to its high-speed transmission, lowest click latency, and seamless frequency switching in the noisiest, data-saturated environments. Our new, improved sensor has an industry-leading 20,000 DPI with 99.6% resolution accuracy, ensuring that even the finest movement from this wireless mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Utilizing an infrared light beam to register every click, the switches in this wireless mouse actuate with an industry-leading response time of 0.2 milliseconds. Because it no longer requires traditional physical contact, this form of actuation removes the need for debounce delay and never triggers unintended clicks, giving you closer control and flawless execution. Enjoy faster and smoother control with the lightest wireless gaming mouse in the market. Weighing just 74g, it achieves its weight without compromising on the build strength of its ambidextrous form factor. it has 01 Year Warranty (Need to submit product box for warranty claim)."}
             
     },
         {
@@ -117,9 +197,503 @@
             "category": "Mouse",
             "price": 14800,
             "status": "In Stock",
-            "rating": 5
+            "rating": 5,
+            "features":{
+                "mpn":"RZ01-03050100-R3A1",
+                "productCode":15432,
+                "model": "Razer Viper Ultimate",
+                "brand":"RAZER",
+                "weight": "74g",
+                "description":"Forget about average and claim the unfair advantage with the Razer Viper Ultimateâ€”a wireless gaming mouse built to win. Designed to be a true extension of a gamer, this deadly predator comes with our most cutting-edge technology and is ready to sink its fangs into the competition. 25% faster than any other wireless technology available, you wonâ€™t even realize that youâ€™re gaming with a wireless mouse due to its high-speed transmission, lowest click latency, and seamless frequency switching in the noisiest, data-saturated environments. Our new, improved sensor has an industry-leading 20,000 DPI with 99.6% resolution accuracy, ensuring that even the finest movement from this wireless mouse is tracked with consistency. Equipped with intelligent functions, the sensor becomes even more accurate, allowing for an acute level of precision for game-winning headshots. Utilizing an infrared light beam to register every click, the switches in this wireless mouse actuate with an industry-leading response time of 0.2 milliseconds. Because it no longer requires traditional physical contact, this form of actuation removes the need for debounce delay and never triggers unintended clicks, giving you closer control and flawless execution. Enjoy faster and smoother control with the lightest wireless gaming mouse in the market. Weighing just 74g, it achieves its weight without compromising on the build strength of its ambidextrous form factor. it has 01 Year Warranty (Need to submit product box for warranty claim)."}
             
     }
+    ,
+        
+    
+        {
+            "id": "13",
+            "image_url": "/assets/processor.jpg",
+            "name": "AMD Ryzen 3 4100 Processor",
+            "category": "Cpu",
+            "price": 10300,
+            "status": "In Stock",
+            "rating": 5,
+            
+        
+                "features":{
+                    
+                    "productCode":20432,
+                    "model": " Ryzen 3 4100",
+                    "brand":"RYZEN",
+                    "cores": "4 cores",
+                    "clockspeed":"3.8GHz",
+                    "description":"AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. AMD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experiences. It comes with Wraith Stealth Cooling Solution. These AMD Ryzen processors are designed to bring you the ultimate, high-performance computing experience. The latest revolutionary AMD multi-threaded processing technology gives you blazing fast performance when you work or play. This AMD Processor. Support AMD Socket AM4 Socket With AMD SenseMI technology and Powerful Overclocking Utility for AMD Ryzen processor. AMD Ryzen 3 4100 Processor offers a 3-years warranty(No Warranty for Fan or Cooler)"}
+            
+            
+    }
+    ,
+        {
+            "id": "14",
+            "image_url": "/assets/processor.jpg",
+            "name": "AMD Ryzen 3 4100 Processor",
+            "category": "Cpu",
+            "price": 10300,
+            "status": "In Stock",
+            "rating": 5,
+            
+        
+            "features":{
+                
+                "productCode":20432,
+                "model": " Ryzen 3 4100",
+                "brand":"RYZEN",
+                "cores": "4 cores",
+                "clockspeed":"3.8GHz",
+                "description":"AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. AMD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experiences. It comes with Wraith Stealth Cooling Solution. These AMD Ryzen processors are designed to bring you the ultimate, high-performance computing experience. The latest revolutionary AMD multi-threaded processing technology gives you blazing fast performance when you work or play. This AMD Processor. Support AMD Socket AM4 Socket With AMD SenseMI technology and Powerful Overclocking Utility for AMD Ryzen processor. AMD Ryzen 3 4100 Processor offers a 3-years warranty(No Warranty for Fan or Cooler)"}
+            
+    }
+    ,
+        {
+            "id": "15",
+            "image_url": "/assets/processor.jpg",
+            "name": "AMD Ryzen 3 4100 Processor",
+            "category": "Cpu",
+            "price": 10300,
+            "status": "In Stock",
+            "rating": 5,
+            
+        
+            "features":{
+                
+                "productCode":20432,
+                "model": " Ryzen 3 4100",
+                "brand":"RYZEN",
+                "cores": "4 cores",
+                "clockspeed":"3.8GHz",
+                "description":"AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. AMD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experiences. It comes with Wraith Stealth Cooling Solution. These AMD Ryzen processors are designed to bring you the ultimate, high-performance computing experience. The latest revolutionary AMD multi-threaded processing technology gives you blazing fast performance when you work or play. This AMD Processor. Support AMD Socket AM4 Socket With AMD SenseMI technology and Powerful Overclocking Utility for AMD Ryzen processor. AMD Ryzen 3 4100 Processor offers a 3-years warranty(No Warranty for Fan or Cooler)"}
+            
+    }
+    ,
+        {
+            "id": "16",
+            "image_url": "/assets/processor.jpg",
+            "name": "AMD Ryzen 3 4100 Processor",
+            "category": "Cpu",
+            "price": 10300,
+            "status": "In Stock",
+            "rating": 5,
+            
+        
+            "features":{
+                
+                "productCode":20432,
+                "model": " Ryzen 3 4100",
+                "brand":"RYZEN",
+                "cores": "4 cores",
+                "clockspeed":"3.8GHz",
+                "description":"AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. AMD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experiences. It comes with Wraith Stealth Cooling Solution. These AMD Ryzen processors are designed to bring you the ultimate, high-performance computing experience. The latest revolutionary AMD multi-threaded processing technology gives you blazing fast performance when you work or play. This AMD Processor. Support AMD Socket AM4 Socket With AMD SenseMI technology and Powerful Overclocking Utility for AMD Ryzen processor. AMD Ryzen 3 4100 Processor offers a 3-years warranty(No Warranty for Fan or Cooler)"}
+            
+    }
+    ,
+        {
+            "id": "17",
+            "image_url": "/assets/processor.jpg",
+            "name": "AMD Ryzen 3 4100 Processor",
+            "category": "Cpu",
+            "price": 10300,
+            "status": "In Stock",
+            "rating": 5,
+            
+        
+            "features":{
+                
+                "productCode":20432,
+                "model": " Ryzen 3 4100",
+                "brand":"RYZEN",
+                "cores": "4 cores",
+                "clockspeed":"3.8GHz",
+                "description":"AMD Ryzen 3 4100 Processor has 4 processor cores, 8 threads, and an astonishingly efficient 45-65W TDP. This processor stands with a Base Clock of 3.8GHz and a Maximum Boost Clock of 4.0GHz. It has 256KB L1 Cache. 2MB L2 Cache, 4MB L3 Cache with AM4 Package, and TSMC 7nm FinFET CMOS. This AMD processor is built with PCIe 3.0 x8 and Wraith Spire Thermal Solution. This Processor provides DDR4 Up to 3200MHz memory with 2 memory channels. It has AMD StoreMI Technology, AMD Core Architecture, and AMD Ryzen VR-Ready Premium. The built-in AMD StoreMI Technology is a fast and easy way to expand and accelerate the storage in a desktop PC with an AMD Ryzen processor. AMD StoreMI technology is a powerful tool for PC enthusiasts that want to improve load times, boot times, file management, or system responsiveness. Whatever your storage acceleration needs, AMD StoreMI technology automatically pairs your most-used files with an SSD cache for peak performance. AMD StoreMI technology can get files running at SSD-like speeds. Simply add an SSD to your system and let StoreMI do the rest. It also features the AMD Ryzen VR-Ready Premium for the best possible VR experiences. It comes with Wraith Stealth Cooling Solution. These AMD Ryzen processors are designed to bring you the ultimate, high-performance computing experience. The latest revolutionary AMD multi-threaded processing technology gives you blazing fast performance when you work or play. This AMD Processor. Support AMD Socket AM4 Socket With AMD SenseMI technology and Powerful Overclocking Utility for AMD Ryzen processor. AMD Ryzen 3 4100 Processor offers a 3-years warranty(No Warranty for Fan or Cooler)"}
+            
+    }
+    ,
+        {
+            "id": "18",
+            "image_url": "/assets/processor2.jpg",
+            "name": "Intel 10th Gen Core i3 10100 Processor",
+            "category": "Cpu",
+            "price": 12300,
+            "status": "In Stock",
+            "rating": 5,
+            
+        
+            "features":{
+                
+                "productCode":20432,
+                "model": "  Intel Core i3 10100",
+                "brand":"Intel",
+                "cores": "4 cores",
+                "clockspeed":"3.6GHz",
+                "description":"This processor comes with a new breed that come with an enabled integrated GPU, so a separate graphics card is not required for its functionality. This new 10th gen Comet Lake microarchitecture is manufactured with the 14nm process that comes with four cores but lacks in HyperThreading. As this chip is updated to the latest BIOS revision, it nicely fits into any Intel 300-series motherboard. Focusing on this, all the major motherboard manufacturers have already started BIOS updates for their 300-series lineup"}
+            
+    },
+    {
+        "id": "19",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "20",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "21",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "22",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "23",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "24",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "25",
+        "image_url": "/assets/motherboard.jpg",
+        "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+        "category": "Motherboard",
+        "price": 8000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            "productCode":11432,
+            "model": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
+            "brand":"ASRock",
+            "generation": "4th",
+            "description":"The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty."}
+        
+    },
+    {
+        "id": "26",
+        "image_url": "/assets/monitor.jpg",
+        "name": "Xiaomi Redmi RMMNT27NF 27 FHD IPS Monitor",
+        "category": "Monitor",
+        "price": 16000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+            "mpn":"RMMNT27NF",
+            "productCode":25432,
+            "model": "Redmi",
+            "brand":"XIAOMI",
+            "display": "IPS, 75Hz, 6ms",
+            "description":"Xiaomi Redmi RMMNT27NF IPS Monitor comes with 27 FHD (1920 x 1080) @75Hz IPS Display is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 27 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. In this monitor, Advanced IPS technology allows colors to be reproduced in their original purity without distorting them when viewed from different angles. The 178° viewing angle remains clear and rich, even when viewed from the side. This Redmi Monitor stands out from the crowd with narrow bezels on its three sides. This latest Xiaomi Redmi RMMNT27NF 27"}
+        
+    },
+    {
+        "id": "27",
+        "image_url": "/assets/monitor.jpg",
+        "name": "Xiaomi Redmi RMMNT27NF 27 FHD IPS Monitor",
+        "category": "Monitor",
+        "price": 16000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+            "mpn":"RMMNT27NF",
+            "productCode":25432,
+            "model": "Redmi",
+            "brand":"XIAOMI",
+            "display": "IPS, 75Hz, 6ms",
+            "description":"Xiaomi Redmi RMMNT27NF IPS Monitor comes with 27 FHD (1920 x 1080) @75Hz IPS Display is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 27 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. In this monitor, Advanced IPS technology allows colors to be reproduced in their original purity without distorting them when viewed from different angles. The 178° viewing angle remains clear and rich, even when viewed from the side. This Redmi Monitor stands out from the crowd with narrow bezels on its three sides. This latest Xiaomi Redmi RMMNT27NF 27"}
+        
+    },
+    {
+        "id": "28",
+        "image_url": "/assets/monitor.jpg",
+        "name": "Xiaomi Redmi RMMNT27NF 27 FHD IPS Monitor",
+        "category": "Monitor",
+        "price": 16000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+            "mpn":"RMMNT27NF",
+            "productCode":25432,
+            "model": "Redmi",
+            "brand":"XIAOMI",
+            "display": "IPS, 75Hz, 6ms",
+            "description":"Xiaomi Redmi RMMNT27NF IPS Monitor comes with 27 FHD (1920 x 1080) @75Hz IPS Display is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 27 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. In this monitor, Advanced IPS technology allows colors to be reproduced in their original purity without distorting them when viewed from different angles. The 178° viewing angle remains clear and rich, even when viewed from the side. This Redmi Monitor stands out from the crowd with narrow bezels on its three sides. This latest Xiaomi Redmi RMMNT27NF 27"}
+        
+    },
+    {
+        "id": "29",
+        "image_url": "/assets/monitor.jpg",
+        "name": "Xiaomi Redmi RMMNT27NF 27 FHD IPS Monitor",
+        "category": "Monitor",
+        "price": 16000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+            "mpn":"RMMNT27NF",
+            "productCode":25432,
+            "model": "Redmi",
+            "brand":"XIAOMI",
+            "display": "IPS, 75Hz, 6ms",
+            "description":"Xiaomi Redmi RMMNT27NF IPS Monitor comes with 27 FHD (1920 x 1080) @75Hz IPS Display is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 27 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. In this monitor, Advanced IPS technology allows colors to be reproduced in their original purity without distorting them when viewed from different angles. The 178° viewing angle remains clear and rich, even when viewed from the side. This Redmi Monitor stands out from the crowd with narrow bezels on its three sides. This latest Xiaomi Redmi RMMNT27NF 27"}
+        
+    },
+    {
+        "id": "30",
+        "image_url": "/assets/monitor.jpg",
+        "name": "Xiaomi Redmi RMMNT27NF 27 FHD IPS Monitor",
+        "category": "Monitor",
+        "price": 16000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+            "mpn":"RMMNT27NF",
+            "productCode":25432,
+            "model": "Redmi",
+            "brand":"XIAOMI",
+            "display": "IPS, 75Hz, 6ms",
+            "description":"Xiaomi Redmi RMMNT27NF IPS Monitor comes with 27 FHD (1920 x 1080) @75Hz IPS Display is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 27 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. In this monitor, Advanced IPS technology allows colors to be reproduced in their original purity without distorting them when viewed from different angles. The 178° viewing angle remains clear and rich, even when viewed from the side. This Redmi Monitor stands out from the crowd with narrow bezels on its three sides. This latest Xiaomi Redmi RMMNT27NF 27"}
+        
+    },
+    {
+        "id": "31",
+        "image_url": "/assets/monitor.jpg",
+        "name": "Xiaomi Redmi RMMNT27NF 27 FHD IPS Monitor",
+        "category": "Monitor",
+        "price": 16000,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+            "mpn":"RMMNT27NF",
+            "productCode":25432,
+            "model": "Redmi",
+            "brand":"XIAOMI",
+            "display": "IPS, 75Hz, 6ms",
+            "description":"Xiaomi Redmi RMMNT27NF IPS Monitor comes with 27 FHD (1920 x 1080) @75Hz IPS Display is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 27 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. In this monitor, Advanced IPS technology allows colors to be reproduced in their original purity without distorting them when viewed from different angles. The 178° viewing angle remains clear and rich, even when viewed from the side. This Redmi Monitor stands out from the crowd with narrow bezels on its three sides. This latest Xiaomi Redmi RMMNT27NF 27"}
+        
+    },
+    {
+        "id": "32",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Storage",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "33",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Storage",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "34",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Storage",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "35",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Storage",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "36",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Storage",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "37",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Power",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "38",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Power",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    },
+    {
+        "id": "39",
+        "image_url": "/assets/ssd.jpg",
+        "name": "HP S700 120GB 2.5 SSD (Solid State Drive)",
+        "category": "Power",
+        "price": 1500,
+        "status": "In Stock",
+        "rating": 5,
+        "features":{
+           
+            
+            "model": " HP S700 120GB",
+            "brand":"HP",
+            "capacity": "120 GB",
+            "description":"Protect your data files with the HP SSD S700 series By using 3D NAND Flash and three-dimensional stacking method, HP S700 series can provide higher storage density and capacity and is more reliable Better performance, more durable The advanced wear overall balancing algorithm of HP S700 series increase the TBW (Total Bytes Written) and improve the durability of SSD, which fully meet the users requirement for design, video editing, games programming, office and various storage applications."}
+        
+    }
+    
 
 ]
 }

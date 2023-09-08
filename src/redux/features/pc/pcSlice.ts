@@ -4,9 +4,7 @@ const pcSlice = createSlice({
   name: "pc",
   initialState,
   reducers: {
-    pc: (state, action) => {
-      console.log(state, action);
-    },
+    pc: (state, action) => {},
   },
 });
 

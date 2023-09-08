@@ -29,25 +29,36 @@ const Navbar = () => {
               <a>Components</a>
               <ul className="p-2">
                 <li>
-                  <a>CPU / Processor</a>
+                  <Link href={"/featuredproduct?category=Cpu"}>
+                    CPU / Processor
+                  </Link>
                 </li>
                 <li>
-                  <a>Motherboard</a>
+                  <Link href={"/featuredproduct?category=Motherboard"}>
+                    Motherboard
+                  </Link>
                 </li>
                 <li>
-                  <a>RAM</a>
+                  <Link href={"/featuredproduct?category=Ram"}> Ram</Link>
                 </li>
                 <li>
-                  <a>Power Supply Unit</a>
+                  <Link href={"/featuredproduct?category=Power"}>
+                    Power Supply Unit
+                  </Link>
                 </li>
                 <li>
-                  <a>Storage Device</a>
+                  <Link href={"/featuredproduct?category=Storage"}>
+                    Storage Device
+                  </Link>
                 </li>
                 <li>
-                  <a>Monitor</a>
+                  <Link href={"/featuredproduct?category=Monitor"}>
+                    {" "}
+                    Monitor
+                  </Link>
                 </li>
                 <li>
-                  <a>Others</a>
+                  <Link href={"/featuredproduct?category=Mouse"}> Others</Link>
                 </li>
               </ul>
             </li>
@@ -64,25 +75,36 @@ const Navbar = () => {
               <summary>Components</summary>
               <ul className="p-2">
                 <li>
-                  <a>CPU / Processor</a>
+                  <Link href={"/featuredproduct?category=Cpu"}>
+                    CPU / Processor
+                  </Link>
                 </li>
                 <li>
-                  <a>Motherboard</a>
+                  <Link href={"/featuredproduct?category=Motherboard"}>
+                    Motherboard
+                  </Link>
                 </li>
                 <li>
-                  <a>RAM</a>
+                  <Link href={"/featuredproduct?category=Ram"}> Ram</Link>
                 </li>
                 <li>
-                  <a>Power Supply Unit</a>
+                  <Link href={"/featuredproduct?category=Power"}>
+                    Power Supply Unit
+                  </Link>
                 </li>
                 <li>
-                  <a>Storage Device</a>
+                  <Link href={"/featuredproduct?category=Storage"}>
+                    Storage Device
+                  </Link>
                 </li>
                 <li>
-                  <a>Monitor</a>
+                  <Link href={"/featuredproduct?category=Monitor"}>
+                    {" "}
+                    Monitor
+                  </Link>
                 </li>
                 <li>
-                  <a>Others</a>
+                  <Link href={"/featuredproduct?category=Mouse"}>Others</Link>
                 </li>
               </ul>
             </details>
@@ -90,7 +112,9 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">PC Builder</a>
+        <Link href={"/pcbuild"} className="btn">
+          PC Builder
+        </Link>
       </div>
     </div>
   );
