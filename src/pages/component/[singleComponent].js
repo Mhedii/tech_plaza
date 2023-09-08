@@ -12,10 +12,16 @@ const SingleComponent = ({ items }) => {
                 <div className=" my-auto">
                     <h1 className="text-2xl">{name}</h1>
                     <h1 className="badge badge-outline py-3 bg-orange-600 text-white font-semibold" >{category}</h1>
-
                     <h1 className="font-semibold">Price: <span className="text-red-700">{price}</span></h1>
                     <h1 className="font-semibold">Availability: <span className="text-red-700">{status}</span></h1>
                     <h1>{rating}</h1>
+                    {/* NeedToDO */}
+                    {/* Description
+Key Features (like Brand, Model, Specification, Port, Type, Resolution, Voltage, etc)
+Individual Rating (Out of 5 Stars)
+Average Rating (Out of 5 Stars)
+Reviews */}
+
                 </div>
             </div>
         </div>

@@ -6,7 +6,8 @@ const ComponentInfo = ({ componentInfo }: any) => {
     <div className="grid lg:grid-cols-6 grid-cols-1 md:grid-cols-2 mx-[5rem] gap-10 mb-20">
       {componentInfo?.map((info: any) => (
         <div key={info.id}>
-          <Link href={`/component/${info?.id}`}>
+          {/* <Link href={`/component/${info?.id}`}> */}
+          <Link href={`/featuredproduct/${info?.id}?category=${info.category}`}>
             <div className="card  bg-base-100 shadow-2xl border  bg-gradient-to-tr from-slate-200 to-bg-purple-400">
               <figure>
                 <Image
