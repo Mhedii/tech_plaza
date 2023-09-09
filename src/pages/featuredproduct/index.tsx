@@ -1,7 +1,14 @@
 import RootLayout from "@/Layouts/RootLayout";
+import { selectedComponent } from "@/redux/features/pc/pcSlice";
+import { useAppDispatch } from "@/redux/hook";
 import Image from "next/image";
+import Link from "next/link";
 
 const FeaturedProduct = ({ items }: any) => {
+  const dispatch: any = useAppDispatch();
+  const handleAddComponent = (item: any) => {
+    dispatch(selectedComponent({ category: item.category, component: item }));
+  };
   return (
     <div>
       <div className="grid lg:grid-cols-6 grid-cols-1 md:grid-cols-2 mx-[5rem] gap-10 mb-20">
@@ -36,9 +43,14 @@ const FeaturedProduct = ({ items }: any) => {
                 </div>
               </div>
               <div className="text-center mb-5">
-                <button className="btn-primary  btn-sm w-20 rounded-lg ">
-                  Add
-                </button>
+                <Link href="/pcbuild">
+                  <button
+                    className="btn-primary  btn-sm w-20 rounded-lg "
+                    onClick={() => handleAddComponent(item)}
+                  >
+                    Add
+                  </button>
+                </Link>
               </div>
             </div>
           </div>

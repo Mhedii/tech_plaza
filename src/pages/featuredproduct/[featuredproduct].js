@@ -66,10 +66,8 @@ export const getStaticPaths = async () => {
             featuredproduct: item.id,
             category: item.category
         }
-
     }))
 
-    // console.log("Path", paths);
     return { paths, fallback: false }
 }
 
