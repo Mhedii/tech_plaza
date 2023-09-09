@@ -15,7 +15,6 @@ const PcBuild = () => {
   const router = useRouter();
   const handleComplete = () => {
     toast("Pc Build Successfully");
-
     router.push("/");
   };
   return (

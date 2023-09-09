@@ -21,34 +21,34 @@ const Footer = () => {
           </div>
           <span className="footer-title">Shop By</span>
           <Link href="" className="link link-hover">
-            Book Category
+            Ram
           </Link>
           <Link href="" className="link link-hover">
-            Boi Mela 2023
+            Mother Board
           </Link>
           <Link href="" className="link link-hover">
-            Islamic Book
+            SSD
           </Link>
           <Link href="" className="link link-hover">
-            Pre Order
+            Monitor
           </Link>
           <Link href="" className="link link-hover">
-            Foreign Books
+            Mouse
           </Link>
           <Link href="" className="link link-hover">
-            Best Selling
+            Processor
           </Link>
           <Link href="" className="link link-hover">
-            Extra Discount
+            Intel Processor
           </Link>
         </div>
         <div className="">
           <span className="footer-title  ">Products</span>
           <Link href="" className="link link-hover">
-            Authors
+            Others
           </Link>
           <Link href="" className="link link-hover">
-            publishers
+            Build
           </Link>
           <Link href="" className="link link-hover">
             List

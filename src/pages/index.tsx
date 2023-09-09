@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import RootLayout from "@/Layouts/RootLayout";
 import ComponentInfo from "@/UI/ComponentInfo";
 import Head from "next/head";
+import Banner from "@/UI/Banner";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home({ componentInfo }: any) {
@@ -15,6 +16,7 @@ export default function Home({ componentInfo }: any) {
           content="This is a Tech realted website where you can buy any computer parts or build a pc"
         />
       </Head>
+      <Banner />
       <ComponentInfo componentInfo={componentInfo} />
     </>
   );

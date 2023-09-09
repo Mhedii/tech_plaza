@@ -1,6 +1,7 @@
 import Link from "next/link";
-
+import { useSession, signOut } from "next-auth/react";
 const Navbar = () => {
+  const { data: session } = useSession();
   return (
     <div className="navbar bg-base-100">
       <div className="navbar-start">
@@ -69,10 +70,10 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal  px-1">
+        <ul className="menu menu-dropdown-show  px-1">
           <li tabIndex={0}>
             <details>
-              <summary>Components</summary>
+              <summary className="font-semibold text-lg">Components</summary>
               <ul className="p-2">
                 <li>
                   <Link href={"/featuredproduct?category=Cpu"}>
@@ -112,9 +113,30 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <Link href={"/pcbuild"} className="btn">
-          PC Builder
-        </Link>
+        {session?.user ? (
+          <>
+            <Link
+              href={""}
+              className="btn bg-gradient-to-t from-purple-800 to-blue-300 text-white font-bold shadow-lg"
+              onClick={() => signOut()}
+            >
+              Logout
+            </Link>
+            <Link
+              href={"/pcbuild"}
+              className="btn bg-gradient-to-t from-purple-800 to-blue-300 text-white font-bold shadow-lg"
+            >
+              PC Builder
+            </Link>
+          </>
+        ) : (
+          <Link
+            href={"/login"}
+            className="btn bg-gradient-to-t from-purple-800 to-blue-300 text-white font-bold shadow-lg"
+          >
+            Login
+          </Link>
+        )}
       </div>
     </div>
   );
